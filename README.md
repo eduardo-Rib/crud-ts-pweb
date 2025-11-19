@@ -137,6 +137,15 @@ Siga as instruções do README de cada repositório
 
 ---
 
+## 🎥 Vídeo
+
+Vídeo mostrando **como rodar o projeto do zero** usando o README.md como referência:
+
+![Vídeo]([https://github.com/user-attachments/assets/635fb137-a697-41ef-bcb0-1c61b6694d31](https://youtu.be/8Yuh7jHqCwo))
+
+
+---
+
 ## 🎓 Créditos
 
 Desenvolvido como parte da disciplina **Programação Web**, sob
