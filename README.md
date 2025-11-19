@@ -141,8 +141,7 @@ Siga as instruções do README de cada repositório
 
 Vídeo mostrando **como rodar o projeto do zero** usando o README.md como referência:
 
-![Vídeo]([https://github.com/user-attachments/assets/635fb137-a697-41ef-bcb0-1c61b6694d31](https://youtu.be/8Yuh7jHqCwo))
-
+https://github.com/user-attachments/assets/303d29c0-1e57-4cc6-9851-0d5b28d78591
 
 ---
 
